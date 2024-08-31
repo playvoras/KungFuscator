@@ -18,7 +18,7 @@ WatermarkCheck.SettingsDescriptor = {
     name = "Content",
     description = "The Content of the WatermarkCheck",
     type = "string",
-    default = "KungFuscator 0.1.0 | Uses Prometheus as the first layer of protection",
+    default = "__NIGGER__",
   },
 }
 

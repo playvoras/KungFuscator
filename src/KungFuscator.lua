@@ -4,7 +4,7 @@
 ]]
 
 local Eeee = function()
-    if local_ == 'Obfuscated Using KungFuscator' then
+    if local_ == 'Obfuscated Using __NIGGER__' then
         local A = 'fake_constants'
     else
         return print('Tamper Detected')

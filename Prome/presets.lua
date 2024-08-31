@@ -25,7 +25,7 @@ return {
         -- The default LuaVersion is Lua51
         LuaVersion = "Lua51";
         -- For minifying no VarNamePrefix is applied
-        VarNamePrefix = "__OOGWAY__";
+        VarNamePrefix = "__NIGGER__";
         -- Name Generator for Variables that look like this: IlI1lI1l
         NameGenerator = "Confuse";
         -- No pretty printing
@@ -65,7 +65,7 @@ return {
         -- The default LuaVersion is Lua51
         LuaVersion = "Lua51";
         -- For minifying no VarNamePrefix is applied
-        VarNamePrefix = "__OOGWAY__";
+        VarNamePrefix = "__NIGGER__";
         -- Name Generator for Variables
         NameGenerator = "MangledShuffled";
         -- No pretty printing
@@ -126,7 +126,7 @@ return {
         -- The default LuaVersion is Lua51
         LuaVersion = "Lua51";
         -- For minifying no VarNamePrefix is applied
-        VarNamePrefix = "__OOGWAY__";
+        VarNamePrefix = "__NIGGER__";
         -- Name Generator for Variables that look like this: IlI1lI1l
         NameGenerator = "Number";
         -- No pretty printing

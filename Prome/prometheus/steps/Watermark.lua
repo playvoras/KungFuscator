@@ -17,7 +17,7 @@ Watermark.SettingsDescriptor = {
     name = "Protected by KungFuscator",
     description = "The Content of the Watermark",
     type = "string",
-    default = "KungFuscator 0.1.0 | Uses Prometheus as the first layer of protection",
+    default = "Cumfuscator",
   },
   CustomVariable = {
     name = "Custom Variable",
